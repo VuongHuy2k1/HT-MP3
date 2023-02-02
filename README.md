@@ -27,6 +27,7 @@ npm start
 ## Author
 
 [Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
+
 [Huy](https://www.facebook.com/huy.diep.3388630)
 
 ## License
