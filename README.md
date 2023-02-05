@@ -39,7 +39,7 @@ This project exists thanks to all the people who contribute.
 
 <p align="center">
   <a href="[https://github.com/VuongHuy2k1/HT-MP3/graphs/contributors](https://www.facebook.com/Thach.Huynh.ZoneNop)">
-  <img src="[https://www.facebook.com/Thach.Huynh.ZoneNop](https://avatars.githubusercontent.com/u/75834703?s=40&v=4)" width="20" style="border-radius: var(--primer-borderRadius-full, 50%) !important;" title="hover text">
+  <img src="(https://avatars.githubusercontent.com/u/75834703?s=40&v=4)" width="20" style="border-radius: var(--primer-borderRadius-full, 50%) !important;" title="hover text">
   </a>
 </p>
 
