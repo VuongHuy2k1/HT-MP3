@@ -1,105 +1,109 @@
-# HT-MP3
+# MERN Stack Music Web
+A reactive Single-Page Music with some new features!! 
 
- This is a graduate internship project at the University of Transport
+**No longer maintained. But it works**
 
-## Installation
+---
+### 🛒 Launch your online store with
+---
 
-```bash
-npm i
-cd .\client\
-npm i
-```
-## Run 
 
-Server run at port: 8989
+# Quick liks
+1. [Requirements](#requirements)
+2. [Usage](#usage)
+3. [Todo](#todo)
+4. [Contribute](#contribute)
+5. [Image Copyright Claims](#image-copyright-claims)
 
-Client run at port: 3000
+Here's a video which will take you on a tour of this project.
 
-Server
-```bash
-npm start
-```
-Client
-```bash
-cd .\client\
-npm start
-```
-## Author
+Note: Many improvements were done after recording this video.
 
-[Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VBZD5lfvi4U/0.jpg)](https://www.youtube.com/watch?v=VBZD5lfvi4U)
 
-[Huy](https://www.facebook.com/huy.diep.3388630)
+# Requirements
+1. [GraphicsMagick](http://www.graphicsmagick.org/) for Image-processing.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+# Usage
+1. Fork the repo and then clone it or download it.
 
-# Getting Started with Create React App
+2. First install all dependencies:
+    ```bash
+    # with npm
+    npm install
+    
+    # or with yarn
+    yarn
+    ```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+3. Open PHPMyAdmin, create a DB & import `db.sql` file.
+4. Create a `.env` file and insert the following code. Replace values with yours!!
 
-## Available Scripts
+    ```javascript
+    PORT=YOUR_PORT
+    SESSION_SECRET_LETTER="anything-secret"
+    MYSQL_HOST="host"
+    MYSQL_USER="user"
+    MYSQL_PASSWORD="password"
+    MYSQL_DATABASE="db"
+    MAIL="your-email-for-sending email-verification-link"
+    MAIL_PASSWORD="password-for-email"
+    GOOGLE_GEOLOCATION_KEY='google-geolocation-key'
+    ADMIN_PASSWORD='password-for-admin'
+    ```
+    
+5. For front-end layer of this app to get access to `env` variables defined in `.env` file, run
+    ```bash
+    yarn env
+    ```
 
-In the project directory, you can run:
+6. Start the server
+    ```javascript
+    npm start [OR] yarn start
+    ```
 
-### `npm start`
+7. Now run the app
+    ```javacript
+    localhost:[PORT] (PORT=defined in .env)
+    ```
+    
+# Todo
+- [x] More image filters
+- [x] Search
+- [x] Block members
+- [x] Hashtag feature
+- [x] Mention members
+- [x] JSDoc & comments
+- [x] Admin system
+- [x] Show if member is online
+- [x] Show all online members (whome you've followed)
+- [x] Description with react-helmet for SEO
+- [x] Some serious code refactoring
+- [x] Crush some bugs
+- [x] Remove jQuery
+- [x] UI testing
+- [ ] Folder restructuring
+- [ ] Performance optimization (Code Splitting, Image Lazyload, etc.)
+- [ ] Express routes testing
+- [ ] Like comments
+- [ ] Upgrade packages
+- [ ] Story feature
+- [ ] Show mutual likes, comments & shares
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Contribute
+Show your support by 🌟 the project!!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Feel free to contribute!
 
-### `npm test`
+# Image Copyright Claims
+Many images used in the project belong to their respective creators/authors. No claim by me & those who use this project. :)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Thanks for reading**
 
-### `npm run build`
+## Contributors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Code Contributors
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/yTakkar/React-Instagram-Clone-2.0/graphs/contributors"><img src="https://opencollective.com/react-instagram-clone-20/contributors.svg?width=890&button=false" /></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
