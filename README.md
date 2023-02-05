@@ -34,9 +34,7 @@ npm start
 
 [Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
 
-<div style="width:60px ; height:60px">
-![Employee data](https://avatars.githubusercontent.com/u/75834703?s=40&v=4 "Employee Data title")
-<div>
+![alt text](https://avatars.githubusercontent.com/u/75834703?s=40&v=4)
 
 [Huy](https://www.facebook.com/huy.diep.3388630)
 
