@@ -2,6 +2,8 @@
 
 This is a graduation thesis project at the University of Transport
 
+Built with the MERN stack (MongoDB, Express, React and NodeJS).
+
 ## Installation
 Use the package manager [NPM](https://www.npmjs.com/) to install.
 
@@ -31,6 +33,9 @@ npm start
 ```
 
 ## Author
+
+This project exists thanks to all the people who contribute.
+<a href="https://github.com/VuongHuy2k1/HT-MP3/graphs/contributors">Code Contributors</a>
 
 
 ![Thach Huynh](https://avatars.githubusercontent.com/u/75834703?s=40&v=4 "Thach") [Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
