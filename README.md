@@ -32,11 +32,11 @@ npm start
 
 ## Author
 
-[Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
 
-![alt text](https://avatars.githubusercontent.com/u/75834703?s=40&v=4)
+![alt text](https://avatars.githubusercontent.com/u/75834703?s=40&v=4) [Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
 
-[Huy](https://www.facebook.com/huy.diep.3388630)
+![alt text](https://avatars.githubusercontent.com/u/96243959?s=48&v=4) [Huy](https://www.facebook.com/huy.diep.3388630)
+
 
 ## License
 
