@@ -37,6 +37,11 @@ npm start
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/VuongHuy2k1/HT-MP3/graphs/contributors">Code Contributors</a>
 
+<p align="center">
+  <a href="[https://github.com/VuongHuy2k1/HT-MP3/graphs/contributors](https://www.facebook.com/Thach.Huynh.ZoneNop)">
+  <img src="[your_relative_path_here](https://avatars.githubusercontent.com/u/75834703?s=40&v=4)" width="350" title="hover text">
+  </a>
+</p>
 
 ![Thach Huynh](https://avatars.githubusercontent.com/u/75834703?s=40&v=4 "Thach") [Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
 
