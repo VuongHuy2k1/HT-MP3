@@ -45,7 +45,7 @@ This project exists thanks to all the people who contribute.
 
 <p>
   <a href="https://github.com/VuongHuy2k1/HT-MP3/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/75834703?s=40&v=4" width="40" style="border-radius: 50%" title="Thach">
+  <img src="https://avatars.githubusercontent.com/u/75834703?s=40&v=4" width="40" style="border-radius: 50%" title="Thach">[Thach](https://www.facebook.com/Thach.Huynh.ZoneNop)
   </a>
 </p>
 
