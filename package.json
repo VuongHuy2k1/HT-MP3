@@ -1,0 +1,26 @@
+{
+  "name": "ht-mp3",
+  "version": "1.0.0",
+  "description": "This is a graduate internship project at the University of Transport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuongHuy2k1/HT-MP3.git"
+  },
+  "keywords": [
+    "Mp3",
+    "music",
+    "UTH",
+    "Thach",
+    "Huy"
+  ],
+  "author": "Thach & Huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuongHuy2k1/HT-MP3/issues"
+  },
+  "homepage": "https://github.com/VuongHuy2k1/HT-MP3#readme"
+}
